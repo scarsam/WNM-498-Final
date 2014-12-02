@@ -3,11 +3,6 @@ WNM-498-Final
 
 Final Project
 
-# Final Project
-
-## Completion, Part 2
-
-For part 2 of your completion final project you will choose other students to work with as a team. After sharing and listening to each others preliminary research about completion, choose classmates that share similar interests, project ideas or scope, and / or skill levels. Groups must be 3 or 4 people in size.
 
 ## Project Repo
 * Create a github repo for your project and provide access for your teammates.
@@ -44,11 +39,5 @@ Create a production schedule with tasks assigned to each member of your group.
 * Pseudo code out each element of your piece.
 * Code this sucker!
 
-## Submission Guidelines
-1. Statement of interest, research, and production schedule must be formatted and uploaded to the wiki.
-2. Add preliminary research to the wiki - moodboards, music, etc.
-2. Host code on a gh-pages repo
-4. Post links to your repo at the bottom of this page
 
-## Repo Links
 
