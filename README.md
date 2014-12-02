@@ -18,9 +18,9 @@ The purpose of our project is to make a collaborative and interactive art piece 
 * UI design -- NEED MORE TIME --
 
 ### 3. Production Schedule
-Tonson Pine - UX Workflow / User scenario / Code
-Pelle Elander - UI Design / Code
-Sam Ojling - UI Design / Code
+* Tonson Pine - UX Workflow / User scenario / Code
+* Pelle Elander - UI Design / Code
+* Sam Ojling - UI Design / Code
 
 ### 4. CODE!
 * Connect p5.js, node.js and socket.io
